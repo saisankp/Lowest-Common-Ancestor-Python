@@ -1,1 +1,2 @@
 # Lowest-Common-Ancestor-Python
+This repository contains my Python3 implementation of the lowest commmon ancestor task for CSU33012 (Software Engineering). I chose Python because it was a language that I was not familiar with completely, and I wanted to install it on my local machine and write some code with it for quite a long time, so this served as a great opportunity.
