@@ -1,9 +1,3 @@
-class TreeNode:
-     def __init__(self, x):
-         self.val = x
-         self.left = None
-         self.right = None
-
 class LCA:
     def __init__(self):
         # Variable to store LCA node.
